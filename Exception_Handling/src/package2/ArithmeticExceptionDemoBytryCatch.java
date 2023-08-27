@@ -1,5 +1,5 @@
 package package2;
-
+//RuntimeException
 public class ArithmeticExceptionDemoBytryCatch {
 	
 	public static void main(String[] args) {
